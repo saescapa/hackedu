@@ -60,6 +60,9 @@ are looking for specific things.
 | 01/11/16 | W4D1       | [Project Week (Cancelled)](2016-01-11_meet_16_cancelled)             |
 | 01/13/16 | W4D1       | [Project Week](2016-01-13_meet_16)                                   |
 | 01/20/16 | W5D2       | [Demo Week](2016-01-20_meet_17)                                      |
+| 01/25/16 | W1D1       | [Workshop Week](2016-01-25_meet_18)                                  |
+| 01/26/16 | InfoMeet   | [Los Altos Info Meet](2016-01-26_Los-Altos-InfoMeet)                 |
+| 01/27/16 | W1D2       | [Workshop Week](2016-01-27_meet_19)                                  |
 
 
 ## Basic templates:
